@@ -4,12 +4,14 @@ import Link from 'next/link';
 
 import About from '@/components/about/about';
 import Contact from '@/components/contact/contact';
-import CustomerCard from '@/components/customer-card';
 import ProductsTypicalList from '@/components/products/typical-list';
-import { productModel } from '@/models';
+import Feedbacks from '@/components/feedback/feedbacks';
+
+import { productModel, feedbackModel } from '@/models';
 
 export default async function Page() {
   const products = await productModel.getTypicalProducts();
+  const feedbacks = await feedbackModel.getFeedbacks();
   return (
     <>
       {/* hero */}
@@ -59,14 +61,7 @@ export default async function Page() {
           <div className='flex justify-center items-center mb-10'>
             <h3 className='text-3xl font-sans'>Customers Who <b>Trust Us</b></h3>
           </div>
-          <div className='grid grid-cols-6 gap-2 mb-8'>
-            <CustomerCard description='greet!' name='jane' />
-            <CustomerCard description='greet!' name='jane' />
-            <CustomerCard description='greet!' name='jane' />
-            <CustomerCard description='greet!' name='jane' />
-            <CustomerCard description='greet!' name='jane' />
-            <CustomerCard description='greet!' name='jane' />
-          </div>
+          <Feedbacks feedbacks={feedbacks} />
         </div>
       </div>
       {/* contact us */}
