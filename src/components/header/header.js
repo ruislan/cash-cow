@@ -1,28 +1,25 @@
-import { MailIcon, WhatsAppIcon } from '../ui/icons';
+import Brand from './brand';
+import Contact from './contact';
+import DrawMenus from './draw-menus';
 import Menus from './menus';
+
+const menus = [
+    { name: 'Home', url: '/' },
+    { name: 'Products', url: '/products' },
+    { name: 'About', url: '/about' },
+    { name: 'Contact', url: '/contact' },
+];
 
 export default async function Header() {
     return (
         <header className='w-full mx-auto flex flex-col justify-center'>
-            <div className='flex w-full items-center h-8 mx-auto gap-2 justify-end max-w-7xl'>
-                <a
-                    className='flex items-center gap-1 text-gray-700 hover:text-blue-700'
-                    href='https://api.whatsapp.com/send?phone=18810561953'
-                >
-                    <WhatsAppIcon className='h-5 w-5' />
-                    <span className='text-sm font-bold'>+86 188 1056 1953</span>
-                </a>
-                <div className='w-[1px] h-full bg-neutral-300 mx-2' />
-                <a
-                    className='flex items-center gap-1 text-gray-700 hover:text-blue-700'
-                    href='mailto:18810561953@163.com'
-                >
-                    <MailIcon className='h-5 w-5' />
-                    <span className='text-sm font-bold'>18810561953@163.com</span>
-                </a>
-            </div>
+            <Contact />
             <div className='w-full h-[1px] bg-neutral-300' />
-            <Menus />
+            <div className='flex items-center h-16 w-full max-w-7xl mx-auto md:px-0 px-3 justify-between md:justify-start'>
+                <Brand />
+                <Menus menus={menus} />
+                <DrawMenus menus={menus} />
+            </div>
         </header>
     );
 }

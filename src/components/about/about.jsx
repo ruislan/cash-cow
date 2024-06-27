@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 export default function About() {
     return (
-        <div className='grid grid-cols-2 gap-4 mb-10'>
+        <div className='md:grid md:grid-cols-2 flex flex-col-reverse gap-4 mb-10 px-3 md:px-0'>
             <div className='flex flex-col gap-2 p-2'>
                 <h3 className='text-2xl font-semibold mb-4'>TianTe international Co. Limited.</h3>
                 <p>We focus on valve, piping and falange.</p>
@@ -15,10 +15,10 @@ export default function About() {
             <div className='flex p-2'>
                 <Image
                     className='w-full rounded max-h-96'
-                    src='/factory.webp'
+                    src='/us.jpg'
                     width='600'
                     height='480'
-                    alt='factory'
+                    alt='us'
                 />
             </div>
         </div>

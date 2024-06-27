@@ -6,7 +6,7 @@ export default function Feedbacks({
     feedbacks,
 }) {
     return (
-        <div className='grid grid-cols-3 gap-2 mb-8'>
+        <div className='md:grid md:grid-cols-3 flex flex-col gap-2 mb-8 px-3 md:px-0'>
             {feedbacks.map((feedback) => (
                 <FeedbackCard
                     key={feedback.id}

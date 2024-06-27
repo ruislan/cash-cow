@@ -5,7 +5,7 @@ import Image from 'next/image';
 
 export default function Contact() {
     return (
-        <div className='grid grid-cols-2 gap-4 mb-8'>
+        <div className='flex flex-col md:grid md:grid-cols-2 gap-4 mb-8 px-3 md:px-0'>
             <div className='flex flex-col gap-2'>
                 <div className='flex flex-col gap-2 p-4 border border-neutral-300 rounded-md w-full'>
                     <div className='flex items-center gap-2'>
