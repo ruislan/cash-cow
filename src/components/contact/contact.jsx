@@ -45,8 +45,8 @@ export default function Contact() {
                 <Image
                     className='h-full object-cover'
                     src='/address-map.png'
-                    width='640'
-                    height='480'
+                    width='1920'
+                    height='1080'
                     alt='address'
                 />
             </div>
