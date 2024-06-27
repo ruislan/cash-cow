@@ -9,12 +9,16 @@ const proseCss = {
       marginTop: '4px',
       marginBottom: '4px',
     },
+    div: {
+      maxWidth: '100%',
+      overflow: 'auto'
+    },
     'ul > li > *': {
       marginTop: '4px',
       marginBottom: '4px',
     },
     img: {
-      maxHeight: '698px',
+      maxWidth: '100%',
       margin: '2px auto',
     }
   }
