@@ -5,7 +5,7 @@ const categoryModel = {
         { name: 'Sanitary Valves', slug: 'sanitary-valves' },
         { name: 'Valve Actuators', slug: 'valve-actuators' },
         { name: 'Tank Accessories', slug: 'tank-accessories' },
-        { name: 'Hygienic Pumps & Mixer', slug: 'hygienic-pumps-mixer' },
+        // { name: 'Hygienic Pumps & Mixer', slug: 'hygienic-pumps-mixer' },
         { name: 'Tri Clamp', slug: 'tri-clamp-fittings' },
         { name: 'Sanitary Pipe Union & Fittings', slug: 'sanitary-pipe-union-fittings' },
     ],
