@@ -1698,18 +1698,718 @@ const productModel = {
             </div>
             `,
         },
-        // {
-        //     id: 22, name: '',
-        //     slug: '',
-        //     category: 'Tri Clamp', subcategory: '', isTypical: false,
-        //     images: [
-        //         '/products//image.webp',
-        //     ],
-        //     summary: `
-        //     `,
-        //     description: `
-        //     `,
-        // },
+        {
+            id: 22, name: 'Hygienic Stainless Steel DIN11864 Aseptic Connection Fittings',
+            slug: 'hygienic-stainless-steel-din11864-aseptic-connection-fittings',
+            category: 'Sanitary Pipe Union & Fittings', subcategory: 'DIN11864 Aseptic Unions', isTypical: false,
+            images: [
+                '/products/hygienic-stainless-steel-din11864-aseptic-connection-fittings/image.webp',
+            ],
+            summary: `
+            `,
+            description: `
+            <div>
+                <h2><strong>DIN 11864&nbsp;Aseptic Connection Fittings</strong></h2>
+
+                <ul>
+                    <li>DIN11864 aseptic fittings meet the exacting needs of food, chemical and pharmaceutical industries.</li>
+                    <li>Available with optional lengths to suit Orbital and Manual Welding, these unions have been designed to match
+                        tube and pipe specifications in DIN 11850; ISO 2037, ASME BPE 2002 and BS 4825 Part 1 and also ISO 1127 for
+                        schedule pipe.</li>
+                </ul>
+
+                <h3><strong>Product Description</strong></h3>
+
+                <div>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>Product&nbsp;Name:</td>
+                                <td>DIN11864-1 Aseptic Union</td>
+                            </tr>
+                            <tr>
+                                <td>Material:</td>
+                                <td>SS316L</td>
+                            </tr>
+                            <tr>
+                                <td>Size:</td>
+                                <td>DN10-DN100</td>
+                            </tr>
+                            <tr>
+                                <td>Finish:</td>
+                                <td>Ra&lt;0.8um</td>
+                            </tr>
+                            <tr>
+                                <td>Application&nbsp;scope:</td>
+                                <td>For Aseptic applications in chemical and pharmaceutical industry.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <h3><strong>Product Parameter</strong></h3>
+
+                <p><img alt="Hygienic Stainless Steel DIN11864 Aseptic Connection Fittings"
+                        src="https://y120.hongcdn.com/uploads/2209/clamp-connections-!j.webp"></p>
+            </div>
+            `,
+        },
+        {
+            id: 23, name: 'Sanitary Stainless Steel 13IU I-Line Double-Bolt Clamp',
+            slug: 'sanitary-stainless-steel-i-line-13iu-double-bolt-clamp',
+            category: 'Sanitary Pipe Union & Fittings', subcategory: 'I-Line Fittings', isTypical: false,
+            images: [
+                '/products/sanitary-stainless-steel-i-line-13iu-double-bolt-clamp/image.webp',
+            ],
+            summary: `
+            `,
+            description: `
+            <div>
+                <h2><strong>Sanitary Stainless Steel 13IU I-Line Double-Bolt Clamp</strong></h2>
+
+                <ul>
+                    <li>The I-Line fittings are made up of interlocking flat face ferrules, a flat gasket and a clamp.&nbsp;</li>
+                    <li>Its special design eliminates the over compression by the clamp and not allowing the gasket to be extruded
+                        into the product zone.</li>
+                    <li>I-Line fittings can withstand higher vibrations, temperatures and pressures than other available connections
+                        available.</li>
+                </ul>
+
+                <h3><strong>Product Description</strong></h3>
+
+                <div>
+                    <table border="0">
+                        <tbody>
+                            <tr>
+                                <td>Product Name:</td>
+                                <td>Sanitary Stainless Steel 13IU I-Line Double-Bolt Clamp</td>
+                            </tr>
+                            <tr>
+                                <td>Size:</td>
+                                <td>1"~8"</td>
+                            </tr>
+                            <tr>
+                                <td>Material：</td>
+                                <td>304SS</td>
+                            </tr>
+                            <tr>
+                                <td>Machine：</td>
+                                <td>CNC Lathe Machine</td>
+                            </tr>
+                            <tr>
+                                <td>Connection:</td>
+                                <td>Tri Clamp</td>
+                            </tr>
+                            <tr>
+                                <td>SurfaceTreatment:</td>
+                                <td>Ra≤0.8</td>
+                            </tr>
+                            <tr>
+                                <td>Optional</td>
+                                <td>Customized tri clamp fitting available</td>
+                            </tr>
+                            <tr>
+                                <td>Packing Details:</td>
+                                <td>within carton box or plywood case</td>
+                            </tr>
+                            <tr>
+                                <td>Applied Industries:&nbsp;</td>
+                                <td>Dairy, Cosmetic, Pharmaceutical, Food and Beverage Industries</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <h3><strong>Product Parameter</strong></h3>
+
+                <p><img alt="Sanitary Stainless Steel 13IU I-Line Double-Bolt Clamp"
+                        src="https://y120.hongcdn.com/uploads/2301/j-o-13iu-clamp-!j.webp"></p>
+            </div>
+            `,
+        },
+        {
+            id: 24, name: 'SMS Sanitary Stainless Steel Complete Union',
+            slug: 'sms-sanitary-stainless-steel-complete-union',
+            category: 'Sanitary Pipe Union & Fittings', subcategory: 'Sanitary Pipe Union', isTypical: false,
+            images: [
+                '/products/sms-sanitary-stainless-steel-complete-union/image.webp',
+            ],
+            summary: `
+            `,
+            description: `
+            <div>
+                <h2><strong>SMS Sanitary Stainless Steel Complete Union</strong></h2>
+
+                <ul>
+                    <li>The Sanitary SMS complete Union including four parts, SMS Welding Male, SMS Welding Liner, SMS Union Gasket,
+                        SMS Nut.</li>
+                    <li>It is widely applied to many fields, such as beer, beverage, dairy food, fruit juice, pharmacy, biological
+                        etc.</li>
+                    <li>Advantage of Union:</li>
+                    <li>It is suitable for flexible and easy maintenance.</li>
+                    <li>It is especially suited for processes where the load on seals is extra high, where easy control and
+                        replacement of seals is&nbsp;necessary and where optimal cleaning is required.</li>
+                </ul>
+
+                <h3><strong>Product Description</strong></h3>
+
+                <div>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>Product&nbsp;Name:</td>
+                                <td>sanitary union</td>
+                            </tr>
+                            <tr>
+                                <td>Material:</td>
+                                <td>AISI304, AISI316L</td>
+                            </tr>
+                            <tr>
+                                <td>Size:</td>
+                                <td>25MM-102MM</td>
+                            </tr>
+                            <tr>
+                                <td>Finish:</td>
+                                <td>Ra&lt;0.8um</td>
+                            </tr>
+                            <tr>
+                                <td>Connection:</td>
+                                <td>welded male</td>
+                            </tr>
+                            <tr>
+                                <td>Certificate:</td>
+                                <td>CE,&nbsp;ISO9001/2008,&nbsp;3A</td>
+                            </tr>
+                            <tr>
+                                <td>Application&nbsp;scope:</td>
+                                <td>Dairy,&nbsp;food,&nbsp;beer,&nbsp;beverage,&nbsp;pharmacy,&nbsp;cosmetic,&nbsp;etc</td>
+                            </tr>
+                            <tr>
+                                <td>Packaging&nbsp;Details:</td>
+                                <td>Shrink&nbsp;wrapped&nbsp;-&nbsp;carton&nbsp;-&nbsp;pallet&nbsp;.&nbsp;Or&nbsp;as&nbsp;per&nbsp;the&nbsp;request&nbsp;of&nbsp;customers
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Delivery&nbsp;details:</td>
+                                <td>Usually&nbsp;within&nbsp;20&nbsp;days&nbsp;after&nbsp;receiving&nbsp;T/T&nbsp;down&nbsp;payment
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <h3><strong>Product Parameter</strong></h3>
+
+                <p><strong><img alt="SMS Union Parameter"
+                            src="https://y120.hongcdn.com/uploads/1m/2004/16095528095-!j.webp"></strong></p>
+            </div>
+            `,
+        },
+        {
+            id: 25, name: 'Sanitary Stainless Steel Tri Clamp Adapter',
+            slug: 'sanitary-stainless-steel-tri-clamp-adapter',
+            category: 'Sanitary Pipe Union & Fittings', subcategory: 'Clamp Ferrules', isTypical: false,
+            images: [
+                '/products/sanitary-stainless-steel-tri-clamp-adapter/image.webp',
+            ],
+            summary: `
+            `,
+            description: `
+            <div >
+                <h2 ><strong>Sanitary Stainless Steel Tri Clamp Adapter</strong></h2>
+
+                <ul>
+                    <li>Our Sanitary Stainless Steel Tri Clamp Adapter including Sanitary Clamp Ferrule, Hygienic Hose Adapter,
+                        Sanitary Stainless Steel Blank, Hygienic End Cap, Sanitry Thread Clamped Adapter.</li>
+                    <li>Suitable for beer, food, wine, beverage, dairy products, dairy products, spices, monosodium glutamate,
+                        cosmetics,toothpaste, fine chemicals, low pressure pipeline in pharmaceutical and biological engineering.
+                    </li>
+                </ul>
+
+                <h3 ><strong>Product Description</strong></h3>
+
+                <div >
+                    <table >
+                        <tbody>
+                            <tr>
+                                <td>Product Name:</td>
+                                <td>Sanitary Stainless Steel Pipe Adapter&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td>Material:</td>
+                                <td>SS304 or SS316L</td>
+                            </tr>
+                            <tr>
+                                <td>Type:</td>
+                                <td>Clamp</td>
+                            </tr>
+                            <tr>
+                                <td>Size:</td>
+                                <td>½"~4"</td>
+                            </tr>
+                            <tr>
+                                <td>Standard</td>
+                                <td>3A,DIN,SMS,ISO</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <p>More details, please contact us, thank you.</p>
+            </div>
+            `,
+        },
+        {
+            id: 26, name: 'Stainless Steel TH7H Pipe Holder',
+            slug: 'stainless-steel-th7h-pipe-holder',
+            category: 'Sanitary Pipe Union & Fittings', subcategory: 'Sanitary Pipe Hanger', isTypical: false,
+            images: [
+                '/products/stainless-steel-th7h-pipe-holder/image.webp',
+            ],
+            summary: `
+            `,
+            description: `
+            <div>
+                <h2><strong>Stainless Steel TH7H Pipe Holeder&nbsp;</strong></h2>
+
+                <ul>
+                    <li>Suitable for beer, food, wine, beverage, dairy products, dairy products, spices, monosodium glutamate,
+                        cosmetics,toothpaste, fine chemicals, low pressure pipeline in pharmaceutical and biological engineering
+                    </li>
+                </ul>
+
+                <h3><strong>Product Description</strong></h3>
+
+                <div>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>Product Name:</td>
+                                <td>Pipe Support NPT Thread</td>
+                            </tr>
+                            <tr>
+                                <td>Material:</td>
+                                <td>SS304 or SS316L</td>
+                            </tr>
+                            <tr>
+                                <td>Type:</td>
+                                <td>Pipe Holder ; Hexagon Pipe Holder</td>
+                            </tr>
+                            <tr>
+                                <td>Size:</td>
+                                <td>½"~12"</td>
+                            </tr>
+                            <tr>
+                                <td>Standard</td>
+                                <td>3A,DIN,SMS,ISO</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <h3><strong>Product Parameter</strong></h3>
+
+                <p><img alt="Stainless Steel TH7H Pipe Holder" src="https://y120.hongcdn.com/uploads/2210/th7h-pipe-holder-!j.webp">
+                </p>
+            </div>
+            `,
+        },
+        {
+            id: 27, name: '3A Sanitary Stainless Steel 45 Degree Welded Short Elbow',
+            slug: '3a-sanitary-stainless-steel-45-degree-welded-short-elbow',
+            category: 'Sanitary Pipe Union & Fittings', subcategory: 'Sanitary Elbow', isTypical: false,
+            images: [
+                '/products/3a-sanitary-stainless-steel-45-degree-welded-short-elbow/image.webp',
+            ],
+            summary: `
+            `,
+            description: `
+            <div>
+                <h2><strong>3A Sanitary Stainless Steel&nbsp;45 Degree&nbsp;Welded Short Elbow</strong></h2>
+
+                <ul>
+                    <li>Our Sanitary Stainless Steel Pipe Fittings including Sanitary 45 Degree Short Elbow, Hygienic 45 Degree Long
+                        Elbow, Sanitary 90 Degree Elbow, Sanitary 180 Degree Elbow, Hygienic Tee, Stainless Steel Cross, Sanitary
+                        Reducer...</li>
+                    <li>It is applied to the stainless steel pipeline system,which is used for milk,food,juice,beer,phramcy,ec.</li>
+                    <li>Each kind of products has strong corrosion resistance and over-long service liftime.</li>
+                    <li>Tank accessories are easy to be installed.</li>
+                    <li>Problem-free welding and assembly and highest possible strenghth.</li>
+                    <li>Welding Requirements:aware of the constantly increasing demands for quality of welding. In accordance with
+                        these demands, all our weld and fittings meet the hightest of standard. The reducers have cylindrical
+                        welding ends and are avaible for all tube combiations, ensuring you that the right diamter and wall
+                        thickness for your process.</li>
+                </ul>
+
+                <h3><strong>Product&nbsp;Description</strong></h3>
+
+                <div>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>Product&nbsp;Name:</td>
+                                <td>Sanitary&nbsp;Welded&nbsp;Elbow&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td>Material:</td>
+                                <td>AISI304,&nbsp;AISI316L</td>
+                            </tr>
+                            <tr>
+                                <td>Size:</td>
+                                <td>1/2''-10''</td>
+                            </tr>
+                            <tr>
+                                <td>Finish:</td>
+                                <td>Mirror&nbsp;Polish, Matte Polish</td>
+                            </tr>
+                            <tr>
+                                <td>Connection:</td>
+                                <td>Weld&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td>Standard:</td>
+                                <td>3A/DIN/SMS/ISO/IDF</td>
+                            </tr>
+                            <tr>
+                                <td>Certificate:</td>
+                                <td>CE,&nbsp;ISO9001/2008,&nbsp;3A</td>
+                            </tr>
+                            <tr>
+                                <td>Application&nbsp;scope:</td>
+                                <td>Dairy,&nbsp;Food,&nbsp;Beer,&nbsp;Beverage,&nbsp;Pharmacy,&nbsp;Cosmetic,&nbsp;Etc</td>
+                            </tr>
+                            <tr>
+                                <td>Packaging&nbsp;Details:</td>
+                                <td>Shrink&nbsp;wrapped&nbsp;-&nbsp;Carton&nbsp;-&nbsp;Pallet&nbsp;.&nbsp;Or&nbsp;As&nbsp;Per&nbsp;The&nbsp;Request&nbsp;Of&nbsp;Customers
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Delivery&nbsp;details:</td>
+                                <td>Usually&nbsp;within&nbsp;20&nbsp;days&nbsp;after&nbsp;receiving&nbsp;T/T&nbsp;down&nbsp;payment
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <h3><strong>Product&nbsp;Parameter</strong></h3>
+
+                <h3
+                    src="https://y120.hongcdn.com/uploads/1m/2003/Stainless-Steel-Sanitary-Pipe-Fitting-45-Degree-Forged-Mirror-Polished-Welded-Short-Elbow6-!j.webp">
+                </h3>
+            </div>
+            `,
+        },
+        {
+            id: 28, name: 'AS Sanitary Stainless Steel Welded Short Tee',
+            slug: 'as-sanitary-stainless-steel-welded-short-tee',
+            category: 'Sanitary Pipe Union & Fittings', subcategory: 'Sanitary Tee', isTypical: false,
+            images: [
+                '/products/as-sanitary-stainless-steel-welded-short-tee/image.webp',
+            ],
+            summary: `
+            `,
+            description: `
+            <div>
+                <h2><strong>AS Sanitary Stainless Steel Welded Short Tee&nbsp;</strong></h2>
+
+                <ul>
+                    <li>Our Sanitary Stainless Steel Tee including Hygienic Butt Welded Tee, Sanitary Clamped Tee, Food Grade
+                        Reducing Tee.</li>
+                    <li>It is applied to the stainless steel pipeline system, which is used for milk, food, juice, beer, phramcy,ec.
+                    </li>
+                    <li>Each kind of products has strong corrosion resistance and over-long service liftime.</li>
+                    <li>Tank accessories are easy to be installed.</li>
+                    <li>Problem-free welding and assembly and highest possible strenghth.</li>
+                    <li>Welding Requirements:aware of the constantly increasing demands for quality of welding. In accordance with
+                        these demands, all our weld and fittings meet the hightest of standard. The reducers have cylindrical
+                        welding ends and are avaible for all tube combiations, ensuring you that the right diamter and wall
+                        thickness for your process.</li>
+                </ul>
+
+                <h3><strong>Product&nbsp;Description</strong></h3>
+
+                <div>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>Availably Standard</td>
+                                <td>SMS,DIN,3A,IDF,RJT, BS, ISO</td>
+                            </tr>
+                            <tr>
+                                <td>Material Quality</td>
+                                <td>SS304,SS316L</td>
+                            </tr>
+                            <tr>
+                                <td>Specification</td>
+                                <td>1/2"-4"</td>
+                            </tr>
+                            <tr>
+                                <td>Available Connection</td>
+                                <td>Welding ends, triclamp ends, union ends, male ends</td>
+                            </tr>
+                            <tr>
+                                <td>Available Poblishing</td>
+                                <td>180 Grit ,240 Grit, 320 Grit ,420 Grit,Unpolished</td>
+                            </tr>
+                            <tr>
+                                <td>Available Thickness</td>
+                                <td>1.5mm,1.65mm,2mm,2.5mm,3mm</td>
+                            </tr>
+                            <tr>
+                                <td>Pressure range</td>
+                                <td>0bar~10bar</td>
+                            </tr>
+                            <tr>
+                                <td>Temperature Range</td>
+                                <td>-20℃ ~ 135℃</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <h3><strong>Product&nbsp;Parameter</strong></h3>
+
+                <p><img alt="AS Sanitary Stainless Steel Welded Short Tee"
+                        src="https://y120.hongcdn.com/uploads/1m/2004/06165625531-!j.webp"></p>
+            </div>
+            `,
+        },
+        {
+            id: 29, name: '3A Sanitary Stainless Steel Butt Welded Concentric Reducer',
+            slug: '3a-sanitary-stainless-steel-butt-welded-concentric-reducer',
+            category: 'Sanitary Pipe Union & Fittings', subcategory: 'Sanitary Reducer', isTypical: false,
+            images: [
+                '/products/3a-sanitary-stainless-steel-butt-welded-concentric-reducer/image.webp',
+            ],
+            summary: `
+            `,
+            description: `
+            <div>
+                <h2><strong>3A Sanitary Stainless Steel Butt Welded Concentric Reducer</strong></h2>
+
+                <h3><strong>Product Description</strong></h3>
+
+                <div>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>Product&nbsp;Name:</td>
+                                <td>3A sanitary Stainless Steel Butt Welded&nbsp;Concentric Reducer&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td>Material:</td>
+                                <td>AISI304,&nbsp;AISI316L</td>
+                            </tr>
+                            <tr>
+                                <td>Size:</td>
+                                <td>1"/1.5"-3"/4"</td>
+                            </tr>
+                            <tr>
+                                <td>Finish:</td>
+                                <td>mirror&nbsp;polish, matt polish</td>
+                            </tr>
+                            <tr>
+                                <td>Connection:</td>
+                                <td>weld ends</td>
+                            </tr>
+                            <tr>
+                                <td>Standard:</td>
+                                <td>3A</td>
+                            </tr>
+                            <tr>
+                                <td>Certificate:</td>
+                                <td>CE,&nbsp;ISO9001/2008,&nbsp;3A</td>
+                            </tr>
+                            <tr>
+                                <td>Application&nbsp;scope:</td>
+                                <td>Dairy,&nbsp;food,&nbsp;beer,&nbsp;beverage,&nbsp;pharmacy,&nbsp;cosmetic,&nbsp;etc</td>
+                            </tr>
+                            <tr>
+                                <td>Packaging&nbsp;Details:</td>
+                                <td>Shrink&nbsp;wrapped&nbsp;-&nbsp;carton&nbsp;-&nbsp;pallet&nbsp;.&nbsp;Or&nbsp;as&nbsp;per&nbsp;the&nbsp;request&nbsp;of&nbsp;customers
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Delivery&nbsp;details:</td>
+                                <td>Usually&nbsp;within&nbsp;20&nbsp;days&nbsp;after&nbsp;receiving&nbsp;T/T&nbsp;down&nbsp;payment
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <h3><strong>Product Parameter</strong></h3>
+
+                <p><img alt="3A Eccentric Reducer Parameter"
+                        src="https://y120.hongcdn.com/uploads/1m/2003/3A-Sanitary-Stainless-Steel-Welded-Concentric-Reducer-!j.webp">
+                </p>
+            </div>
+            `,
+        },
+        {
+            id: 30, name: '3A Sanitary Stainless Steel Clamped Long Cross',
+            slug: '3a-sanitary-stainless-steel-clamped-long-cross',
+            category: 'Sanitary Pipe Union & Fittings', subcategory: 'Sanitary Cross', isTypical: false,
+            images: [
+                '/products/3a-sanitary-stainless-steel-clamped-long-cross/image.webp',
+            ],
+            summary: `
+            `,
+            description: `
+            <div>
+                <h2><strong>3A Sanitary Stainless Steel Clamped Long Cross</strong></h2>
+
+                <h3><strong>Product Description</strong></h3>
+
+                <div>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>Product&nbsp;Name:</td>
+                                <td>3A &nbsp;sanitary clamped cross&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td>Material:</td>
+                                <td>AISI304,&nbsp;AISI316L</td>
+                            </tr>
+                            <tr>
+                                <td>Size:</td>
+                                <td>1''-4''</td>
+                            </tr>
+                            <tr>
+                                <td>Finish:</td>
+                                <td>mirror&nbsp;polish,&nbsp;stain&nbsp;finishing</td>
+                            </tr>
+                            <tr>
+                                <td>Connection:</td>
+                                <td>clamp ends</td>
+                            </tr>
+                            <tr>
+                                <td>Standard:</td>
+                                <td>3A</td>
+                            </tr>
+                            <tr>
+                                <td>Certificate:</td>
+                                <td>CE,&nbsp;ISO9001/2008,&nbsp;3A</td>
+                            </tr>
+                            <tr>
+                                <td>Application&nbsp;scope:</td>
+                                <td>Dairy,&nbsp;food,&nbsp;beer,&nbsp;beverage,&nbsp;pharmacy,&nbsp;cosmetic,&nbsp;etc</td>
+                            </tr>
+                            <tr>
+                                <td>Packaging&nbsp;Details:</td>
+                                <td>Shrink&nbsp;wrapped&nbsp;-&nbsp;carton&nbsp;-&nbsp;pallet&nbsp;.&nbsp;Or&nbsp;as&nbsp;per&nbsp;the&nbsp;request&nbsp;of&nbsp;customers
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Delivery&nbsp;details:</td>
+                                <td>Usually&nbsp;within&nbsp;20&nbsp;days&nbsp;after&nbsp;receiving&nbsp;T/T&nbsp;down&nbsp;payment
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <h3><strong>Product Parameter</strong></h3>
+
+                <p><img alt="3A Clamp Long Cross Parameter"
+                        src="https://y120.hongcdn.com/uploads/1m/2003/3A-Sanitary-Stainless-Steel-Clamped-Long-Cross2-!j.webp"></p>
+            </div>
+            `,
+        },
+        {
+            id: 31, name: 'Sanitary Stainless Steel Matt Polish Weld Tube',
+            slug: 'sanitary-stainless-steel-matt-polish-weld-tube',
+            category: 'Sanitary Pipe Union & Fittings', subcategory: 'Sanitary Tubes & Pipes', isTypical: false,
+            images: [
+                '/products/sanitary-stainless-steel-matt-polish-weld-tube/image.webp',
+            ],
+            summary: `
+            `,
+            description: `
+            <div>
+                <h2><strong>Sanitary Stainless Steel Matt Polish Weld Tube</strong></h2>
+
+                <ul>
+                    <li>It is applied to the stainless steel pipeline system,which is used for food, juice, beer, cosmetic and etc.
+                    </li>
+                    <li>Each kind of products has strong corrosion resistance and over-long service liftime.</li>
+                    <li>Problem-free welding and assembly and highest possible strenghth.</li>
+                    <li>Welding Requirements:aware of the constantly increasing demands for quality of welding. In accordance with
+                        these demands, all our weld and fittings meet the hightest of standard. The reducers have cylindrical
+                        welding ends and are avaible for all tube combiations, ensuring you that the right diamter and wall
+                        thickness for your process.</li>
+                </ul>
+
+                <h3><strong>Product&nbsp;Description</strong></h3>
+
+                <div>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>Availably Standard</td>
+                                <td>SMS,DIN,3A,IDF,RJT, BS, ISO</td>
+                            </tr>
+                            <tr>
+                                <td>Material Quality</td>
+                                <td>AISI304,AISI316L</td>
+                            </tr>
+                            <tr>
+                                <td>Specification</td>
+                                <td>1" - 4",&nbsp;applied&nbsp;to&nbsp;the&nbsp;stainless&nbsp;steel&nbsp;pipeline&nbsp;system</td>
+                            </tr>
+                            <tr>
+                                <td>Available Connection</td>
+                                <td>Welding ends</td>
+                            </tr>
+                            <tr>
+                                <td>Available Thickness</td>
+                                <td>1.5mm,1.65mm,2mm,2.5mm,3mm</td>
+                            </tr>
+                            <tr>
+                                <td>Pressure range</td>
+                                <td>0bar~10bar</td>
+                            </tr>
+                            <tr>
+                                <td>Temperature Range</td>
+                                <td>-20℃ ~ 135℃</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <h3><strong>Product&nbsp;Parameter</strong></h3>
+
+                <p><img alt="(ISO 2037 SYANDARD)3A STANDARDS"
+                        src="https://y120.hongcdn.com/uploads/1m/2003/Stainless-Steel-Matt-Polish-Sanitary-SS304-SS316L-Welding-Tube5-!j.webp">
+                </p>
+            </div>
+            `,
+        },
+        {
+            id: 32, name: 'Stainless Steel Butt Weld Long Tee For Semiconductor',
+            slug: 'stainless-steel-butt-weld-long-tee-for-semiconductor',
+            category: 'Sanitary Pipe Union & Fittings', subcategory: 'Semiconductor Fittings', isTypical: false,
+            images: [
+                '/products/stainless-steel-butt-weld-long-tee-for-semiconductor/image.webp',
+            ],
+            summary: `
+            `,
+            description: `
+            <div>
+                <h2><strong>Stainless Steel&nbsp;Butt Weld Long Tee For Semiconductor</strong></h2>
+
+                <p>Standard surface finish is average 0.25um Ra. Controlled surface finish is available for ultrahigh-purity
+                    systems.<br>
+                    Tube ends are machined with a square and corners to enhance alignment and maintain tube wall uniformity.</p>
+
+                <h3><strong>Product&nbsp;Parameter</strong></h3>
+
+                <h3 src="https://y120.hongcdn.com/uploads/2402/long-tee-drawing-!j.webp"></h3>
+            </div>
+            `,
+        },
         // {
         //     id: , name: '',
         //     slug: '',
